@@ -1,0 +1,111 @@
+p{
+    font-family: 'Raleway', sans-serif;
+}
+.container {
+    background: rgb(255, 226, 31); 
+    font-family: 'Montserrat', sans-serif;
+    max-width: 100%;
+    max-height: 100%;
+    }
+.nav-item{
+    margin-left: 20px;
+}
+.logo{
+    max-width: 50px;
+    margin-right:10px;
+}
+.site-title {
+    font-size: 2rem;
+    padding-top: 8px;
+    padding-left: 5px;
+    color: rgb(133, 133, 133);
+}
+.color2{
+    background: white;
+    padding:15px;
+}
+.color4{
+    padding: 10px;
+    margin: 1px;
+    }
+.color3{
+    background: rgb(38, 48, 208);
+    color:white;
+    padding: 10px;
+}
+.color5{
+    text-align: center;
+}
+.color6{
+    background: rgb(38, 48, 208);
+    color:white;
+    padding: 5px;
+}
+.color7{
+    background: rgb(152, 172, 235);
+    padding:10px;
+}
+.color8{
+    width: 100%;
+}
+.color9{
+    text-align: center;
+    padding: 5px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.color10{
+    text-align: center;
+    background: rgb(38, 48, 208);
+    color: white;
+    padding: 4px;
+}
+.color11{
+    background: rgb(152, 172, 235);
+    padding: 5px;
+    color: white;
+    text-align: center;
+    max-width: 100%;
+    
+}
+.navbar-nav .nav-item .nav-link:hover {
+    color: black;
+    }
+.btn:hover{
+    background: rgb(214, 214, 214);
+    color: black;
+}
+.image1{
+    max-width: 75px;
+    max-height: 15px;
+    margin-bottom: 13px;
+}
+.fa-facebook, .fa-instagram{
+    color: white;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+.center-block {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.form{
+    padding-bottom: 10px;
+    border-radius: 5px;
+    padding: 4px;
+}
+.responsive-image{
+        height: auto;
+        width: 80%;
+}
+.history{
+    padding: 20px;
+}
+.fa-people-carry{
+    padding-left: 18px;
+    padding-right: 50px;
+}
+.video{
+    padding: 50px;
+}

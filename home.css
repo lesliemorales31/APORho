@@ -1,0 +1,110 @@
+p{
+    font-family: 'Raleway', sans-serif;
+}
+.container {
+    background: rgb(255, 226, 31); 
+    font-family: 'Montserrat', sans-serif;
+    max-width: 100%;
+    max-height: 100%;
+    }
+.nav-item{
+    margin-left: 20px;
+}
+.logo{
+    max-width: 50px;
+    margin-right:10px;
+}
+.site-title {
+    font-size: 2rem;
+    padding-top: 8px;
+    padding-left: 5px;
+    color: rgb(133, 133, 133);
+}
+.color2{
+    background-color: white;
+    color: white;
+    text-align: center;
+    font-weight: bolder;
+}
+.color3{
+    background: rgb(38, 48, 208);
+    color:white;
+    padding: 10px;
+
+}
+.background {
+    background-image: "apo.jpg";
+    opacity: .80;
+    background-size:94.6% auto;
+    background-color: white;
+background-repeat:no-repeat;
+background-size:cover;
+background-position:center;
+}
+.centered {
+    text-align: center;
+    font-weight: bolder;
+    color: white;
+    margin: auto;
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    max-width: 50%;
+}
+
+.carousel {
+    background-color: rgb(255, 226, 31);
+    padding: 5px;
+}
+
+.d-block{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+   
+}
+.color9{
+    text-align: center;
+    padding: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    background: rgb(255, 226, 31); 
+}
+.color11{
+    background: rgb(152, 172, 235);
+    padding: 5px;
+    color: white;
+    text-align: center;
+    max-width: 105%;
+}
+.color10{
+    padding: 10px;
+}
+.navbar-nav .nav-item .nav-link:hover {
+    color: black;
+    }
+
+.fa-facebook, .fa-instagram{
+    color: white;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+.image1{
+    max-width: 75px;
+    max-height: 15px;
+    margin-bottom: 13px;
+}
+.center-block {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 889px;
+    max-height: 500px;
+}
+
+.color4{
+    padding: 20px;
+    margin: 1px;
+}
