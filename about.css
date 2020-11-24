@@ -108,4 +108,11 @@ p{
 }
 .video{
     padding: 50px;
+        display: block; 
+        width: auto; 
+        margin: 0 auto;  
+}
+.textBox{
+    font-size: 3vw;
+    text-overflow: wrap;
 }
